@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sekzerd
-- 👀 I’m interested in Kotlin
-- 🌱 I’m currently learning Kotlin
+- 👀 I’m interested in Rust
+- 🌱 I’m currently learning Rust
 
 <!---
 sekzerd/sekzerd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
